@@ -7,4 +7,4 @@ learning code through projects using lights, probably some sound too
 ---------------------------------------------------------------------------------------------------------------------------------------
 ORDER BY createdate DESC
 
-1|30|25  taking the leap. project 1 - learn basic python
+01-30-25  taking the leap. project 1: learn basic python
