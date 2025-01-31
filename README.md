@@ -1,5 +1,4 @@
-# thatdudeblume
-# readme
+# thatdudeblume-readme
 
 learning code through projects using lights, probably some sound too
 
